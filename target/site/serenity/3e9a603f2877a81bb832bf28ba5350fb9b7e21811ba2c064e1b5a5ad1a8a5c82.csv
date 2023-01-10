@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Posts CRUD test","Create a new post for the user","SUCCESS","2023-01-10T23:07:01.713Z[Europe/London]","0.0","19.57"
+"Posts CRUD test","Verify that post was added for the user","SUCCESS","2023-01-10T23:07:21.418Z[Europe/London]","0.0","1.23"
+"Posts CRUD test","Update the post title","SUCCESS","2023-01-10T23:07:22.650Z[Europe/London]","0.0","0.83"
+"Posts CRUD test","Delete the post","SUCCESS","2023-01-10T23:07:23.503Z[Europe/London]","0.0","2.16"
